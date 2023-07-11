@@ -96,3 +96,10 @@
     opacity: 0.5;
   }
   
+  .portfolio-section {
+    display: flex;
+    flex-flow: row;
+    margin-top: 2em;
+    padding-right: 3em;
+    padding-left: 3em;
+}
