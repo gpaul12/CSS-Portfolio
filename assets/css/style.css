@@ -26,4 +26,8 @@
     flex-direction: column;
     padding-bottom: 2em;
   }
+
+  .col {
+    flex: 1;
+  }
   
