@@ -6,3 +6,8 @@
     --khaki-web: #c3b299ff;
   }
 
+  * {
+    box-sizing: border-box;
+    font-size: 1em;
+  }
+  
