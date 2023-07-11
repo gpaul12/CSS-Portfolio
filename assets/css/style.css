@@ -178,4 +178,17 @@
     height: auto;
   }
 
+  .work-label {
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background-color: var(--ash-gray);
+    padding: .5em 1em;
+    color: var(--davys-grey);
+    z-index:10;
+    position:absolute;  
+    bottom: 10%;
+  }
+
   
