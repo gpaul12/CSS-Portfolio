@@ -148,4 +148,9 @@
     margin: .5em .5em;
   }
 
+  .work-lessor {
+    display: flex;
+    flex-direction: row;
+  }
+
   
