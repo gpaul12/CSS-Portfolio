@@ -28,4 +28,4 @@ The primary objectives of this exercise were to demonstrat the use of the follow
 ## Links
 
 - This repo is located [on github](https://github.com/gpaul12/CSS-Portfolio)
-- This site is deployed on [github pages]()
+- This site is deployed on [github pages](https://gpaul12.github.io/CSS-Portfolio/)
