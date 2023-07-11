@@ -10,4 +10,9 @@
     box-sizing: border-box;
     font-size: 1em;
   }
+
+  a:link {
+    text-decoration: none;
+    color: var(--ash-gray);
+  }
   
