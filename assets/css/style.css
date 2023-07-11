@@ -153,4 +153,14 @@
     flex-direction: row;
   }
 
+  .work-lessor-item {
+    display: flex;
+    position: relative;
+    flex-basis: 50%; 
+    border-color: var(--ash-gray);
+    border-style: solid;
+    border-width: .5em;
+    margin: .5em .5em;
+  }
+
   
