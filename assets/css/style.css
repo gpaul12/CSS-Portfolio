@@ -21,4 +21,9 @@
     color: var(--ash-gray);
   }
 
+  body {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2em;
+  }
   
