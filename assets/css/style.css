@@ -130,3 +130,11 @@
     font-size: 1em;
   }
   
+  .portfolio-area-n {
+    display: flex;
+    flex-basis: 20%;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-grow: 1;
+  }
+  
