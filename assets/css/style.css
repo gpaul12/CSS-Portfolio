@@ -15,4 +15,10 @@
     text-decoration: none;
     color: var(--ash-gray);
   }
+
+  a:visited {
+    text-decoration: none;
+    color: var(--ash-gray);
+  }
+
   
