@@ -116,4 +116,10 @@
     font-size: 24px;
   }
 
-  
+  .portfolio-block {
+    flex-basis: 85vw;
+    flex-direction: column;
+    justify-content:stretch;
+    align-items: center;
+  }
+
