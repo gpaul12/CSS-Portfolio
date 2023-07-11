@@ -54,4 +54,20 @@
     display: flex;
   }
   
+  .nav-bar-label {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 25%;
+    background-color:var(--ash-gray);
+    padding: .5em 1em;
+    color: var(--davys-grey);
+    z-index:10;
+    position: absolute;
+    left: 0em;
+    top: .6em;
+    font-size: 3vw;
+    font-weight: bold;
+  }
+  
   
