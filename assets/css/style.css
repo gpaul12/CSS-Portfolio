@@ -39,3 +39,14 @@
     align-items: stretch;
   }
   
+  .nav-element {
+    display: flex;
+    justify-content: center;
+    padding: .5em .5em;
+    margin: 1em .5em 1em 0em;
+    color: var(--ash-gray);
+    text-decoration: none;
+    border-bottom-style:solid;
+    font-size: 1.2em;
+  }
+  
