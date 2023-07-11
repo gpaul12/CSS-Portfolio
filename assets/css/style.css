@@ -200,3 +200,10 @@
     font-size: small;
   }
   
+  .contact-row {
+    display: flex;
+    flex-direction: row;
+    border-color: blue;
+  }
+
+  
