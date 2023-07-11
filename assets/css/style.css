@@ -31,3 +31,11 @@
     flex: 1;
   }
   
+  .nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: var(--davys-grey);
+    align-items: stretch;
+  }
+  
