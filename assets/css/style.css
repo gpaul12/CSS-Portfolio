@@ -163,4 +163,9 @@
     margin: .5em .5em;
   }
 
+  .work-featured > img {
+    max-width: 100%;
+    height: auto;
+  }
+
   
